@@ -1,0 +1,1 @@
+fscanf(arquivo, "formatação", variáveis);
